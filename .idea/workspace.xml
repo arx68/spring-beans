@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="618b166e-7aed-466e-aa71-ffac09466572" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/target/test-classes/MainTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/config/AppConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/model/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/model/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/model/AnimalsCage.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/model/AnimalsCage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/model/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/model/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/model/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/model/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/app/model/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/model/Timer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +43,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\www\Spring\spring-beans-arx68\src\main\resources" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -77,5 +90,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
