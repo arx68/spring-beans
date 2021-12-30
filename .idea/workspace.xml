@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="618b166e-7aed-466e-aa71-ffac09466572" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/target/test-classes/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/config/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/config/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/model/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/model/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/model/AnimalsCage.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/model/AnimalsCage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/model/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/model/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/model/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/model/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app/model/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/target/classes/app/model/Timer.class" afterDir="false" />
-    </list>
+    <list default="true" id="618b166e-7aed-466e-aa71-ffac09466572" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +70,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
